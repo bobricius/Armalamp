@@ -1,6 +1,8 @@
 # Armalamp
 Plastic covered photo cells + Supercapacitor with unlimited life ( 1369years )
 
+Winner: Planet Friendly Power: Hackaday Prize 2022 Round Finalist!
+
 Features:
 
 - 6x BPW34 photodiodes aka solar cell
