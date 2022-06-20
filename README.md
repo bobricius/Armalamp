@@ -19,3 +19,5 @@ Features:
 
 SuperCapacitor can achieve 500 000 charging cycles, it is enough for 1369years.
 (BPW34 photodiode act as solar cell, MCP1624 suck all stored energy to LED because can work until 0.3V)
+
+https://hackaday.io/project/185116-armalamp-armageddon-resistant-night-lamp
